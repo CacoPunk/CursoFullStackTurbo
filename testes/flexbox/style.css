@@ -1,0 +1,19 @@
+main {
+    border: solid 5px red;
+
+}
+
+div {
+    border: solid 5px green;
+    font-size: 40px;
+    margin: 5px;
+
+}
+
+.caixa {
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+    flex-flow: row wrap;
+
+}

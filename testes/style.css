@@ -1,0 +1,31 @@
+
+body {
+    background-color: grey;
+}
+
+.vermelho{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    left: 200px;
+    position: relative;
+    display: inline-block;
+}
+
+.azul{
+    height: 100px;
+    width: 100px;
+    position: relative;
+    right: 104px;
+    background-color: blue;
+    display: inline-block;
+}
+
+.amarelo{
+    height: 100px;
+    width: 100px;
+    right: 104px;
+    position: relative;
+    background-color: yellow;
+    display: inline-block;
+}
